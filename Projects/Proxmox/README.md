@@ -1,98 +1,75 @@
 # Hyperviseur
 J'ai fais le choix de proxmox VE pour le decouvrir
 
+## Objectifs
 
-## Objectifs du projet
-
-* Héberger les services essentiels du homelab
-* Centraliser les ressources de calcul et de stockage
-* Simuler une infrastructure d'entreprise
-* Expérimenter de nouvelles technologies
-* Développer des compétences en cybersécurité et en architecture d'infrastructure
-* Tester des solutions avant leur mise en production dans un environnement professionnel
+* Centraliser l'hébergement des services
+* Administrer un environnement virtualisé
+* Tester de nouvelles technologies
+* Développer des compétences en architecture d'infrastructure
+* Mettre en œuvre des bonnes pratiques d'exploitation
 
 ---
 
 ## Services hébergés
 
-L'infrastructure virtualisée permet notamment d'héberger :
-
 * Firewall OPNsense
 * Active Directory
+* Microsoft AD CS
 * NetBox
 * Zabbix
 * Wazuh
 * GLPI
-* PKI interne
 * Services Docker
-* Outils d'administration et de supervision
-
-La liste évolue régulièrement en fonction des besoins d'apprentissage et des projets en cours.
 
 ---
 
-## Compétences mises en œuvre
+## Compétences développées
 
 ### Virtualisation
 
-* Déploiement et administration de machines virtuelles
+* Gestion des machines virtuelles
+* Allocation des ressources
 * Gestion du stockage
-* Gestion des ressources CPU et mémoire
 * Sauvegarde et restauration
 
 ### Réseau
 
-* Segmentation réseau par VLAN
-* Intégration avec les équipements réseau
-* Gestion des flux entre environnements
-
-### Sécurité
-
-* Isolation des services
-* Cloisonnement des environnements
-* Gestion des accès administratifs
-* Mise en œuvre de bonnes pratiques de sécurité
+* Intégration multi-VLAN
+* Segmentation réseau
+* Gestion des flux
 
 ### Exploitation
 
-* Supervision de l'infrastructure
+* Supervision
 * Gestion des incidents
 * Documentation technique
 * Maintien en conditions opérationnelles
 
+### Cybersécurité
+
+* Cloisonnement des services
+* Gestion des accès
+* Durcissement des environnements
+* Infrastructure de confiance
+
 ---
 
-## Technologies associées
+## Technologies
 
 * Proxmox VE
+* Linux
 * OPNsense
-* Active Directory
+* Microsoft Active Directory
+* Microsoft AD CS
 * Docker
 * NetBox
 * Zabbix
 * Wazuh
 * GLPI
-* Smallstep CA
 
 ---
 
-## Démarche d'amélioration continue
+## Perspectives
 
-Ce laboratoire personnel me permet d'expérimenter et de documenter des sujets liés à :
-
-* l'administration systèmes et réseaux ;
-* la cybersécurité opérationnelle ;
-* la supervision ;
-* la gestion des identités ;
-* la segmentation réseau ;
-* l'architecture de systèmes d'information.
-
-L'objectif à long terme est de renforcer mes compétences vers des fonctions d'Ingénieur Infrastructure et d'Architecte Sécurité.
-
----
-
-## Clause de confidentialité
-
-Les informations publiées dans ce dépôt sont volontairement anonymisées.
-
-Aucune information sensible, configuration de production, adresse IP réelle, secret, identifiant ou donnée appartenant à un environnement professionnel n'est publié.
+Cette plateforme constitue la base des projets de cybersécurité, de supervision et de gouvernance développés au sein du homelab dans le cadre de ma progression vers des fonctions d'Ingénieur Cybersécurité et d'Architecte Sécurité.
