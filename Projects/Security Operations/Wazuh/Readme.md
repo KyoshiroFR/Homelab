@@ -9,7 +9,7 @@ Cette réflexion m'a naturellement conduit à m'intéresser aux solutions XDR (E
 Au-delà de l'outil lui-même, c'est la capacité à centraliser les informations, corréler les événements et améliorer la visibilité sur l'infrastructure qui m'intéresse.
 
 ---
-
+ 
 ## Un domaine que je découvre
 
 La détection et l'investigation font partie des domaines dans lesquels j'ai encore beaucoup à apprendre.
