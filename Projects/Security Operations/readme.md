@@ -1,5 +1,3 @@
-Projects/Security Operations/README.md# Security Operations
-
 ## Pourquoi ce projet ?
 
 La cybersécurité ne se limite pas à la mise en place de protections.
